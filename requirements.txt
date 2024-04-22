@@ -1,0 +1,7 @@
+flask
+flask-smorest
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+gunicorn
